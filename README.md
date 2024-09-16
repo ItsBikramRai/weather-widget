@@ -16,6 +16,12 @@ Weather Widget is a simple and responsive weather application built using React.
 * Enter the name of a city or location in the search bar to get current weather information.
 * The application will display temperature, weather condition, humidity, wind speed, etc.
 
+## Clone the repository:
+
+   ```bash
+https://github.com/ItsBikramRai/weather-widget.git
+   ```
+
  ## Contributing
 * Contributions are welcome! If you'd like to improve this project, feel free to open an issue or submit a pull request.
 
