@@ -20,7 +20,7 @@ export default function WeatherApp () {
 
     return (
         <div >
-            <h2>Weather App by The Knuth</h2>
+            <h2>Weather App by <a style={{color:"black", textDecoration:"none"}} href="https://bikramrai-portfolio.vercel.app/">Bikram Rai</a></h2>
             <SearchBox updateInfo={updateInfo} />
             <br />
             <InfoBox info={weatherInfo}/>

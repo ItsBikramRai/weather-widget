@@ -57,6 +57,7 @@ export default function SearchBox({ updateInfo }) {
                     required 
                     value={city}
                     onChange={handleChange}
+                   
                 />
                 <br/>
                 <br/>
