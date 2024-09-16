@@ -9,7 +9,7 @@ Weather Widget is a simple and responsive weather application built using React.
 ## Technologies Used
 * React: Frontend framework for building the user interface.
 * JavaScript (ES6+): For logic and API integration.
-* CSS / Bootstrap : For styling and responsive design (whichever you're using).
+* CSS : For styling and responsive design (whichever you're using).
 * Fetch API: For handling API requests.
 * Weather API: Integrates with a weather service to retrieve real-time data (e.g., OpenWeatherMap).
 ## Usage
