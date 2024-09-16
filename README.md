@@ -12,3 +12,12 @@ Weather Widget is a simple and responsive weather application built using React.
 * CSS / Bootstrap : For styling and responsive design (whichever you're using).
 * Fetch API: For handling API requests.
 * Weather API: Integrates with a weather service to retrieve real-time data (e.g., OpenWeatherMap).
+## Usage
+* Enter the name of a city or location in the search bar to get current weather information.
+* The application will display temperature, weather condition, humidity, wind speed, etc.
+
+ ## Contributing
+* Contributions are welcome! If you'd like to improve this project, feel free to open an issue or submit a pull request.
+
+  ## License
+- This project currently has no license.
