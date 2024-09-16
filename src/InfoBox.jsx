@@ -44,7 +44,7 @@ export default function InfoBox ({info}) {
         <Typography variant="body2" color="text.secondary" component={"span"}>
           <div>Temperature:{info.temp}&deg;C</div>
           <div>Humidiy = {info.humidity}&#37;</div>
-          <p>Mini Temp: {info.tempMin}&deg;C</p>
+          <p>Min Temp: {info.tempMin}&deg;C</p>
           <p>Max Temp: {info.tempMax}&deg;C</p>
           <p>The weather can described as  <strong>{info.weather}</strong> feels Like <strong>{info.feelsLike}&deg;C </strong> </p>
         </Typography>
