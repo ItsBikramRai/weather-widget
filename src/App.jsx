@@ -10,7 +10,10 @@ function App() {
       <span>
         <div style={{ fontSize: "15px" }}>
           Designed & Developed by: &nbsp;
-          <a style={{ textDecoration: "none" }} href="www.bikram-rai.com.np">
+          <a
+            style={{ textDecoration: "none" }}
+            href="https://bikram-rai.com.np"
+          >
             Bikram Rai
           </a>
         </div>
