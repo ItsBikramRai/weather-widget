@@ -8,10 +8,12 @@ function App() {
       <br />
       <br />
       <span>
-      <div style={{ fontSize: "15px" }}>
-            Designed & Developed by: &nbsp;
-            <a style={{textDecoration:"none"}} href="https://bikramrai-portfolio.vercel.app">Bikram Rai</a>
-          </div>
+        <div style={{ fontSize: "15px" }}>
+          Designed & Developed by: &nbsp;
+          <a style={{ textDecoration: "none" }} href="www.bikram-rai.com.np">
+            Bikram Rai
+          </a>
+        </div>
       </span>
     </>
   );
